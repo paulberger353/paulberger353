@@ -23,8 +23,8 @@ Als Full Stack Entwickler schlage ich die Brücke zwischen komplexer Business-Lo
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulberger353&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulberger353&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
