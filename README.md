@@ -1,16 +1,26 @@
-## Hi there 👋
+👨‍💻 Über mich
+Ich bin Full Stack Entwickler mit einer Leidenschaft dafür, komplexe Probleme in elegante, funktionale Software zu übersetzen. Egal ob es um effiziente Web-Lösungen oder robuste Windows-Applikationen geht – ich entwickle Software, die hält, was sie verspricht.
 
-<!--
-**paulberger353/paulberger353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+Hier sind die Technologien, in denen ich zu Hause bin:
 
-Here are some ideas to get you started:
+🎯 Fokus & Interessen
+Meine Erfahrungen sind breit gefächert, was mir hilft, anpassungsfähig zu bleiben. Besonders begeistere ich mich für:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Finanzen & Wirtschaft: Datengetriebene Software und intelligente Tools.
+
+Web Development: Erstellung performanter und moderner Web-Applikationen.
+
+Windows Applications: Fokus auf Produktivität und Stabilität.
+
+Technologietransfer: Ich liebe es, mich in neue Technologien einzuarbeiten und sie in bestehende Workflows zu integrieren.
+
+🤝 Let's Collaborate
+Ich bin immer offen für neue Projekte, spannende Kollaborationen oder einen fachlichen Austausch. Wenn du eine Idee hast oder Unterstützung bei einem Software-Projekt suchst, freue ich mich von dir zu hören.
+
+📬 Kontakt
+LinkedIn: paul-berg
+
+Instagram: @berg.p18
+
+Email: berg.paul@outlook.de
